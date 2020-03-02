@@ -1,0 +1,27 @@
+<script type="text/javascript">
+    RED.nodes.registerType('json2md',{
+        category: 'function',
+        color: '#DEBD5C',
+        defaults: {
+            name: {value: "Parse json to markdown"}
+        },
+        inputs:1,
+        outputs:1,
+        icon: "jq.png",
+        label: function() {
+            return this.name || "Parse json to markdown";
+        }
+    });
+</script>
+
+<script type="text/x-red" data-template-name="json2md">
+    <div class="form-row">
+        <label for="node-input-name"><i class="icon-tag"></i> Name</label>
+        <input type="text" id="node-input-name" placeholder="Name">
+    </div>
+</script>
+
+<script type="text/x-red" data-help-name="json2md">
+    <p>Parse json found in <b>msg.payload</b> to Markdown.</p>
+    <p>Markdown is saved in the <b>msg.payload</b> property, overriding the json. </p>
+</script>
