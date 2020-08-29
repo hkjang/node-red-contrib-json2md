@@ -15,6 +15,7 @@ The ‘Nodes’ tab lists all of the modules you have installed. It shows which 
 
 The ‘Install’ tab lets you search the catalogue of available node modules and install them.
 
+<a href="https://www.buymeacoffee.com/gagagiga" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 Example
 ------

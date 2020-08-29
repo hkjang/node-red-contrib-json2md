@@ -1,6 +1,6 @@
 {
-  "_from": "node-red-contrib-json2md@0.0.1",
-  "_id": "node-red-contrib-json2md@0.0.1",
+  "_from": "node-red-contrib-json2md@0.0.2",
+  "_id": "node-red-contrib-json2md@0.0.2",
   "_inBundle": false,
   "_integrity": "sha1-noFcXCDwGu+rHAMcJ/78E+qC8Ow=",
   "_location": "/node-red-contrib-json2md",
@@ -8,20 +8,20 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "node-red-contrib-json2md@0.0.1",
+    "raw": "node-red-contrib-json2md@0.0.2",
     "name": "node-red-contrib-json2md",
     "escapedName": "node-red-contrib-json2md",
-    "rawSpec": "0.0.1",
+    "rawSpec": "0.0.2",
     "saveSpec": null,
-    "fetchSpec": "0.0.1"
+    "fetchSpec": "0.0.2"
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/node-red-contrib-json2md/-/node-red-contrib-json2md-0.0.1.tgz",
+  "_resolved": "https://registry.npmjs.org/node-red-contrib-json2md/-/node-red-contrib-json2md-0.0.2.tgz",
   "_shasum": "9e815c5c20f01aefab1c031c27fefc13ea82f0ec",
-  "_spec": "node-red-contrib-json2md@0.0.1",
+  "_spec": "node-red-contrib-json2md@0.0.2",
   "_where": "/home/ubuntu/.node-red",
   "author": {
     "name": "hkjang"
@@ -51,5 +51,5 @@
     "type": "git",
     "url": "git+https://github.com/hkjang/node-red-contrib-json2md.git"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
